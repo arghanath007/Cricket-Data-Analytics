@@ -20,6 +20,20 @@ Watched Till -> 10mins (To be Continued)
 
 > When there are code execution for multiple stages then execute each step at a time, start from 1 then go upwards. Check the `input tab` below as well after successfully executing each stage. The `above error` was coming up because `after stage 1` was completed an `empty string url` was generated at the top which was causing the error and hence people including me weren't able to execute `stage 2`. Always check the if there is an `empty string url` in the `input tab`, if it is there  simply `remove/delete` to get rid of the error.
 
+> After running stage 1, then I went to stage 2 and before running stage 2, I scrolled down to the `Input tab` to see if there was any `empty string url` was generated which would cause errors.
+
+![image](https://user-images.githubusercontent.com/54589605/209524081-416e7bb5-cc34-43a3-8217-8384550b6bf7.png)
+![image](https://user-images.githubusercontent.com/54589605/209524207-27a1fa9b-91f8-4682-bced-607c576ee976.png)
+
+
+> I definitely got the `empty string url`. If I run stage 2 without removing/deleting it I will get the above error. To fix the error remove the `empty string url` from the `Input tab` and then run stage 2 to get the desired result.
+
+![image](https://user-images.githubusercontent.com/54589605/209524391-32e31068-c28b-4a82-b266-0502245aee66.png)
+![image](https://user-images.githubusercontent.com/54589605/209524502-5b4d0dbd-5750-42e9-9767-01689a143026.png)
+
+> Now it ran just fine. Got your output as well.
+
+
 ### 2
 
 ![image](https://user-images.githubusercontent.com/54589605/209520279-4c6482ac-05e1-40d1-92fb-fc96aeb2509a.png)
