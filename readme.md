@@ -2,7 +2,7 @@
 
 * Link -> https://www.youtube.com/watch?v=4QkYy1wANXA&list=PLGQWdcX1dcyw-yhA01mL0zwrt3zoLBTD2&index=2&t=9s
 
-Watched Till -> 10mins (To be Continued)
+Watched Till -> 40mins (To be Continued)
 
 ## Questions and Answers
 
